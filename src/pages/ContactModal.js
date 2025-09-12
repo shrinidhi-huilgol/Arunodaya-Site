@@ -27,30 +27,28 @@ function ContactModal({ onClose }) {
         <div className="contactBody">
           <div className="contactCol">
             <div className="contactCol-icon"><FiMapPin /></div>
-            <div className="contactCol-title">Our Head Office</div>
+            <div className="contactCol-title">Our Location</div>
             <div className="contactCol-info">
-              Kerala Rehabilitation Institute<br />
-              for the Physically Affected (KRIPA)<br />
-              Chunangamvely, Erumathala P.O.,<br />
-              Aluva 683112 Kerala, India
+              Seva Chetan, 
+Near Shri.Panchamukhi Maruthi Temple, Bankers Colony, Hubli Road, Gadag - 582103.
+ Karnataka, India
             </div>
           </div>
           <div className="contactCol">
             <div className="contactCol-icon"><FiPhone /></div>
             <div className="contactCol-title">Our Phone</div>
             <div className="contactCol-info">
-              9539839953<br />
-              9074241011<br />
-              0484-2838153
+              Basavaraj.S.Pattanshetti 9449369553<br />
+              Dr.Jayaraj Mulgund  9448564388<br />
+              Mallikarjun Naglapur 8151887302<br/>
             </div>
           </div>
           <div className="contactCol">
             <div className="contactCol-icon"><FiMail /></div>
             <div className="contactCol-title">Our Mail</div>
             <div className="contactCol-info" style={{ wordBreak: "break-all" }}>
-              kriparajagiri@gmail.com<br />
-              kripaspecialschool@gmail.com<br />
-              kriparehab@gmail.com
+             arunodayasplschool@gmail.com<br/>
+
             </div>
           </div>
         </div>

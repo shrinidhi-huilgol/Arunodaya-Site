@@ -30,14 +30,14 @@ Near Shri.Panchamukhi Maruthi Temple, Bankers Colony, Hubli Road, Gadag - 582103
         </div>
 
         {/* Social Column */}
-        <div className="social-col footer-col">
+        {/* <div className="social-col footer-col">
           <h4>Follow Us</h4>
           <div className="footer-social">
             <a href="#"><i className="fab fa-facebook-f"></i></a>
             <a href="#"><i className="fab fa-twitter"></i></a>
             <a href="#"><i className="fab fa-instagram"></i></a>
           </div>
-        </div>
+        </div> */}
 
         {/* Map Column */}
         <div className="map-col footer-col">
@@ -55,7 +55,7 @@ Near Shri.Panchamukhi Maruthi Temple, Bankers Colony, Hubli Road, Gadag - 582103
       </div>
 
       <div className="footer-base">
-        © 2025 ArunoDaya. All rights reserved.
+        © 2025 ARUNODAYA. All rights reserved.
       </div>
     </footer>
   );
