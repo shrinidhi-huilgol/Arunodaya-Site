@@ -241,7 +241,7 @@ function HomePage1() {
         className="container"
         style={{
           background:
-            'linear-gradient(rgba(29, 90, 140, 0.7), rgba(29, 90, 140, 0.7)), url("/arn.jpg") center/cover no-repeat',
+            'linear-gradient(rgba(29, 90, 140, 0.7), rgba(29, 90, 140, 0.7)), url("/arn.JPG") center/cover no-repeat',
         }}
       >
         <nav className="nav">
