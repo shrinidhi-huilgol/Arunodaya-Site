@@ -37,9 +37,9 @@
 //         <nav className="nav">
 //           <div className="logoSection">
 //             <div className="logo">
-//               <img src="/sevauk logo.jpg" alt="Sevauk logo" />
+//               <img src="/Sevauk logo.jpg" alt="Sevauk logo" />
 //             </div>
-//             <div className="logo">
+//             <div className="logo">S
 //               <img src="/logo22.jpg" alt="Arunodaya Logo" />
 //             </div>
 //             <div classname="title-and-quote">
