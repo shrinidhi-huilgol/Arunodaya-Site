@@ -677,3 +677,11 @@ logo-quote {
   margin-top: 2px;
   text-align: center;
 }
+.contactLogo {
+  height: 52px;
+  width: auto;
+  object-fit: contain;
+  background: #23234e;
+  border-radius: 6px;
+  margin-right: 7px;
+}
