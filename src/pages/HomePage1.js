@@ -246,7 +246,7 @@ function HomePage1() {
       >
         <nav className="nav">
           <div className="logoSection">
-            <div className="logo">
+            <div className="logoi">
              <img src="/Sevauk logo.jpg" alt="Sevauk logo" />
             </div>
             <div className="logo">
