@@ -247,7 +247,7 @@ function HomePage1() {
         <nav className="nav">
           <div className="logoSection">
             <div className="logo">
-              <img src="/Sevauk logo.jpg" alt="sewa logo" className="sewa logo" />
+              <img src="/Sevauk logo.jpg" alt="sewa logo" className="contactLogo" />
             </div>
             <div className="logo">
               <img src="/logo22.jpg" alt="Arunodaya Logo" />
