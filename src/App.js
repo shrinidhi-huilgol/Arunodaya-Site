@@ -7,6 +7,8 @@ import VideoEmbed from "./pages/VideoEmbed";
 import TestimonialsSlider from "./pages/TestimonialsSlider";
 import InfoEdgeSection from "./pages/InfoEdgeSection";
 import Footer from "./pages/Footer";
+import Navbar from './components/Navbar';
+import "./styles/responsive.css";
 
 
 // Temporary Payment Page (replace with your real one later)
@@ -28,6 +30,7 @@ function App() {
           element={
             <>
               <HomePage1 />
+              <Navbar/>
               <HomePage2 />
               <TeamSection />
               <VideoEmbed />

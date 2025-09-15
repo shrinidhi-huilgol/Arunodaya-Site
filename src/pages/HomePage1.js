@@ -241,13 +241,13 @@ function HomePage1() {
         className="container"
         style={{
           background:
-            'linear-gradient(rgba(29, 90, 140, 0.7), rgba(29, 90, 140, 0.7)), url("/arn.jpg") center/cover no-repeat',
+            'linear-gradient(rgba(29, 90, 140, 0.7), rgba(29, 90, 140, 0.7)), url("/arn.JPG") center/cover no-repeat',
         }}
       >
         <nav className="nav">
           <div className="logoSection">
             <div className="logo">
-              <img src="/sevauk logo.jpg" alt="Sevauk Logo" />
+              <img src="/Sevauk logo.jpg" alt="Sevauk logo" />
             </div>
             <div className="logo">
               <img src="/logo22.jpg" alt="Arunodaya Logo" />
