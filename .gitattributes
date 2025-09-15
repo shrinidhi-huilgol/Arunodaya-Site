@@ -1,0 +1,2 @@
+*.ext filter=lfs diff=lfs merge=lfs -text
+<large-file> filter=lfs diff=lfs merge=lfs -text

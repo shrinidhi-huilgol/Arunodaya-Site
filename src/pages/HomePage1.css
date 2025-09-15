@@ -383,6 +383,7 @@ text-align: left;
   object-fit: cover; /* keeps aspect ratio */
 }
 
+
 /* ===== Title Gradient Text ===== */
 .title {
   text-align: left;
@@ -677,3 +678,4 @@ logo-quote {
   margin-top: 2px;
   text-align: center;
 }
+
